@@ -322,7 +322,7 @@ header {
 .my-services {
     /* Always set a background-color first and then a background-image after. This way, the background-color will show if the image fails to load */
     background-color: var(--clr-dark);
-    background-image: url(/img/fruit2.jpg);
+    background-image: url(/img/webp/fruit2.webp);
     background-size: cover;
     background-blend-mode: multiply;
     color: var(--clr-light);
